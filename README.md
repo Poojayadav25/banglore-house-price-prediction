@@ -14,3 +14,4 @@ The main packages used are numpy, pandas, matplotlib, seaborn and sklearn.
 The web app has been build using basic HTML, CSS, Javascript, Flask and Herkou.
 link:http://127.0.0.1:5001/
 
+<img width="1080" alt="Screenshot 2022-03-06 200550" src="https://user-images.githubusercontent.com/90573789/156927919-53ef869a-8a63-4b03-b722-853b1fd28298.png">
